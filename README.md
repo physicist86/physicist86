@@ -6,9 +6,9 @@
 
 - 🧪 Titles: IBM Z Ambassador, Microsoft Learn Student Ambasssador
 - 🧪 I’m currently working on three.js and data science pipelines.
-- 🧪 I’m currently learning computational chemistry.
+- 🧪 I’m currently learning computational chemistry and PyTorch.
 - 🧪 I’m looking to collaborate on open source three.js projects.
-- 🧪 I’m looking for help with SaaS projects.
+- 🧪 I’m looking for help with SaaS & Cloud projects featuring Hadoop.
 - 🧪 Ask me about IBM Mainframes. 
 - 🧪 How to reach me: alex1.602e-19.us@ieee.org
 - 🧪 Pronouns: He/Him
