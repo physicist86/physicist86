@@ -1,16 +1,14 @@
-### Hi there 👋
+### Ahoy there!! 🌊🦦
 
 <!--
 **Alex1602e19/Alex1602e19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working three.js and data science pipelines.
+- 🌱 I’m currently learning computational chemistry.
+- 👯 I’m looking to collaborate on open source three.js projects.
+- 🤔 I’m looking for help with SaaS projects.
+- 💬 Ask me about IBM Mainframes. 
+- 📫 How to reach me: alex1.602e-19.us@ieee.org
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm mildly addicted to Costco peanut butter pretzles. 
