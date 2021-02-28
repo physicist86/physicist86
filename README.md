@@ -11,7 +11,7 @@
 📫  How to reach me: alex1.602e-19.us@ieee.org or connect on [Linkedin](https://linkedin.com/in/math-boy-does-math)
 
 ID | Relevant Memes | Context
----|----------------|--------
-1. |.                       |
+-|-|-
+1 | |
 
 <!-- **Alex1602e19/Alex1602e19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
