@@ -1,6 +1,6 @@
 # Ahoy there, I'm Alex!
 
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex1602e19&show_icons=true&theme=tokyonight)
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex1602e19&show_icons=true&theme=outrun)
 
 <!-- **Alex1602e19/Alex1602e19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
