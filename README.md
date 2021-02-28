@@ -1,8 +1,8 @@
 # Ahoy there, I'm Alex!
 
 ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex1602e19&show_icons=true&theme=outrun)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex1602e19&hide=javascript,html)]
-<!-- [![Alexander's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alex1602e19)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex1602e19&hide=javascript,html)
+[![Alexander's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alex1602e19)
 
 Context | Meme | Accuracy
 -|-|-
