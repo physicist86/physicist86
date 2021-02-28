@@ -12,7 +12,7 @@ What I think I do: | ![boyo](https://media.giphy.com/media/CLPm6lHStv1O1N2bHq/so
 What I actually do: | ![three.js](https://media.giphy.com/media/4xQEm8cZdJrSwrohcJ/source.gif)|100/10
 <!-- **Alex1602e19/Alex1602e19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-💫  I'm currently studying something I'm excited about or off building a cool project :)\
+<!-- 💫  I'm currently studying something I'm excited about or off building a cool project :)\
 🧱  I’ve always enjoyed the creativity of engineering and sharing this passion in others.\
 💬  Ask me about IBM Z ONE, Microsoft learn, Azure, or student leadership with the SSCCC. \
 📫  How to reach me: alex1.602e-19.us@ieee.org or let's connect on [Linkedin](https://linkedin.com/in/math-boy-does-math)!
