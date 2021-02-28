@@ -7,7 +7,7 @@
 
 💫  Currently studying something I'm excited about or off building a side project :)\
 🧱  I’ve always enjoyed the creativity of engineering and sharing this passion in others.\
-💬  Ask me about my ambassadorships with IBM Z ONE, Microsoft learn, Azure, or student leadership with the SSCCC. \
+💬  Ask me about IBM Z ONE, Microsoft learn, Azure, or student leadership with the SSCCC. \
 📫  How to reach me: alex1.602e-19.us@ieee.org or connect on [Linkedin](https://linkedin.com/in/math-boy-does-math)
 
 
