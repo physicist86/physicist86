@@ -12,6 +12,6 @@
 
 Context | Meme | Ranking
 -|-|-
-1 | |
+What my mom thinks I do: | ![gif](https://giphy.com/gifs/kGXBU6bGjXtDzz4iLx)|
 
 <!-- **Alex1602e19/Alex1602e19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
