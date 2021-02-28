@@ -2,7 +2,7 @@
 
 ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex1602e19&show_icons=true&theme=outrun)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex1602e19&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats&theme=outrun)
-[![Alexander's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alex1602e19)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Alexander's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alex1602e19)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- **Alex1602e19/Alex1602e19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 💫 Currently studying something I'm excited about or off building a side project :)\
