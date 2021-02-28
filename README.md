@@ -10,7 +10,7 @@
 💬  Ask me about IBM Z ONE, Microsoft learn, Azure, or student leadership with the SSCCC. \
 📫  How to reach me: alex1.602e-19.us@ieee.org or connect on [Linkedin](https://linkedin.com/in/math-boy-does-math)
 
-ID | Relevant Memes | Context
+Context | Meme | Ranking
 -|-|-
 1 | |
 
