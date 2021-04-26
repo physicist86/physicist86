@@ -1,5 +1,6 @@
 # Ahoy there, I'm Alex!
 
+- Don't mind the insignia, I'm just patriotic and a US Navy fan. 
 ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex1602e19&show_icons=true&theme=outrun)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex1602e19&hide=javascript,html)
 
