@@ -1,6 +1,6 @@
 # 𝘼𝙝𝙤𝙮 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝘼𝙡𝙚𝙭!
 
-𝘿𝙤𝙣'𝙩 𝙢𝙞𝙣𝙙 𝙩𝙝𝙚 𝙞𝙣𝙨𝙞𝙜𝙣𝙞𝙖, 𝙄'𝙢 𝙟𝙪𝙨𝙩 𝙥𝙖𝙩𝙧𝙞𝙤𝙩𝙞𝙘 𝙖𝙣𝙙 𝙖 𝙐𝙎 𝙉𝙖𝙫𝙮 𝙛𝙖𝙣.
+𝘼𝙨 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙩𝙚𝙡𝙡, 𝙄'𝙢 𝙖 ![𝙢𝙖𝙣 𝙤𝙛 𝙘𝙪𝙡𝙩𝙪𝙧𝙚](https://www.youtube.com/watch?v=755BDwzxv5c&t=3s).
 
 ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex1602e19&show_icons=true&theme=outrun)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex1602e19&hide=javascript,html)
