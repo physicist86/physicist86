@@ -18,7 +18,7 @@ What I actually do: | ![three.js](https://media.giphy.com/media/4xQEm8cZdJrSwroh
 
 𝙿𝚛𝚎𝚟𝚒𝚘𝚞𝚜𝚕𝚢 𝚍𝚘𝚗𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚠𝚘𝚛𝚔 𝚏𝚘𝚛 @𝚒𝚋𝚖, @𝚖𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝
 
-![](https://giphy.com/gifs/usnationalarchives-vintage-computer-3ov9jNziFTMfzSumAw)
+![mainframe](https://giphy.com/gifs/usnationalarchives-vintage-computer-3ov9jNziFTMfzSumAw)
 
 <!-- **Alex1602e19/Alex1602e19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
