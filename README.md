@@ -26,6 +26,7 @@ What I actually do: | ![three.js](https://media.giphy.com/media/4xQEm8cZdJrSwroh
 ![](https://github.com/Alex1602e19/raw/blob/main/python-logo-generic.svg)
 ![](https://github.com/Alex1602e19/raw/blob/main/Swift_(programming_language)-Logo.wine.png)
 ![](https://github.com/Alex1602e19/raw/blob/main/ISO_C%2B%2B_Logo.svg)
+![](https://github.com/Alex1602e19/raw/blob/main/Sakura_Nene_CPP.jpg)
 
 <!-- **Alex1602e19/Alex1602e19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
