@@ -20,6 +20,13 @@ What I actually do: | ![three.js](https://media.giphy.com/media/4xQEm8cZdJrSwroh
 
 ![](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif)
 
+🥵👨‍🚒 🌶 🔥 𝗠𝗬 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 🔥 🌶 👨‍🚒 🥵
+
+![](https://github.com/Alex1602e19/raw/blob/main/Screen%20Shot%202021-05-01%20at%201.58.30%20AM.png)
+![](https://github.com/Alex1602e19/raw/blob/main/python-logo-generic.svg)
+![](https://github.com/Alex1602e19/raw/blob/main/Swift_(programming_language)-Logo.wine.png)
+![](https://github.com/Alex1602e19/raw/blob/main/ISO_C%2B%2B_Logo.svg)
+
 <!-- **Alex1602e19/Alex1602e19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- 💫  I'm currently studying something I'm excited about or off building a cool project :)\
