@@ -1,6 +1,6 @@
 # 𝘼𝙝𝙤𝙮 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝘼𝙡𝙚𝙭!
 
-𝘼𝙨 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙩𝙚𝙡𝙡, 𝙄'𝙢 𝙖 ![𝙢𝙖𝙣 𝙤𝙛 𝙘𝙪𝙡𝙩𝙪𝙧𝙚](https://www.youtube.com/watch?v=755BDwzxv5c&t=3s).
+𝘼𝙨 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙩𝙚𝙡𝙡, 𝙄'𝙢 𝙖 [𝙢𝙖𝙣 𝙤𝙛 𝙘𝙪𝙡𝙩𝙪𝙧𝙚](https://www.youtube.com/watch?v=755BDwzxv5c&t=3s).
 
 ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex1602e19&show_icons=true&theme=outrun)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex1602e19&hide=javascript,html)
