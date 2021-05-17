@@ -1,4 +1,13 @@
+
 # 𝘼𝙝𝙤𝙮 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝘼𝙡𝙚𝙭! 
+
+
+𝙿𝚛𝚎𝚟𝚒𝚘𝚞𝚜𝚕𝚢 𝚍𝚘𝚗𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚠𝚘𝚛𝚔 𝚏𝚘𝚛 @𝚒𝚋𝚖, @𝚖𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝
+
+[](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif) 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 <!--- ![](https://github.com/Alex1602e19/raw/blob/main/tenor.gif)
 
@@ -16,15 +25,11 @@ What my mom thinks I do: | ![boyo](https://media.giphy.com/media/kGXBU6bGjXtDzz4
 What I think I do: | ![boyo](https://media.giphy.com/media/CLPm6lHStv1O1N2bHq/source.gif)| 8/10
 What I actually do: | ![three.js](https://media.giphy.com/media/4xQEm8cZdJrSwrohcJ/source.gif)|100/10
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-𝙿𝚛𝚎𝚟𝚒𝚘𝚞𝚜𝚕𝚢 𝚍𝚘𝚗𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚠𝚘𝚛𝚔 𝚏𝚘𝚛 @𝚒𝚋𝚖, @𝚖𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝
 
-[](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif) --->
+<!---# 🥵👨‍🚒 🌶 🔥 𝗠𝗬 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 🔥 🌶 👨‍🚒 🥵
 
-# 🥵👨‍🚒 🌶 🔥 𝗠𝗬 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 🔥 🌶 👨‍🚒 🥵
-
-![](https://github.com/Alex1602e19/raw/blob/main/Screen%20Shot%202021-05-01%20at%201.58.30%20AM.png)
+<!---![](https://github.com/Alex1602e19/raw/blob/main/Screen%20Shot%202021-05-01%20at%201.58.30%20AM.png)
 ![](https://github.com/Alex1602e19/raw/blob/main/python-logo-generic.svg)
 ![](https://github.com/Alex1602e19/raw/blob/main/Swift_(programming_language)-Logo.wine.png)
 ![](https://github.com/Alex1602e19/raw/blob/main/ISO_C%2B%2B_Logo.svg)
