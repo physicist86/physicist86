@@ -6,7 +6,7 @@
 
 ![](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif) 
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 𝙸 𝚌𝚘𝚍𝚎 𝚒𝚗 𝙲++, 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙶𝚘𝚕𝚊𝚗𝚐, 𝚊𝚗𝚍 𝚂𝚠𝚒𝚏𝚝. 
 
