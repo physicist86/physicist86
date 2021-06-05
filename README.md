@@ -1,7 +1,8 @@
 
 # 𝘼𝙝𝙤𝙮 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝘼𝙡𝙚𝙭! :shipit:
 
-
+![](https://raster.shields.io/badge/Follows-NEP29-brightgreen.png)[https://numpy.org/neps/nep-0029-deprecation_policy.html]
+    
 𝙿𝚛𝚎𝚟𝚒𝚘𝚞𝚜𝚕𝚢 𝚍𝚘𝚗𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚠𝚘𝚛𝚔 𝚏𝚘𝚛 @𝚒𝚋𝚖, @𝚖𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝 
 
 ![](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif) 
