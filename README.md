@@ -1,10 +1,5 @@
 
 # 𝘼𝙝𝙤𝙮 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝘼𝙡𝙚𝙭! :shipit:
-
-<!DOCTYPE html>
-      <a href="https://numpy.org/neps/nep-0029-deprecation_policy.html">
-         <img alt="Qries" src="https://raster.shields.io/badge/Follows-NEP29-brightgreen.png">
-      </a>
                                
 ![](https://raster.shields.io/badge/Follows-NEP29-brightgreen.png)
     
