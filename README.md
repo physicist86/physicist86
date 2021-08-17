@@ -1,5 +1,6 @@
 
-# Let's make some efficient programs :shipit:
+# Let's make some optimiΩed algorithms :shipit:
+===============================================
 
 ![](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif) 
 
