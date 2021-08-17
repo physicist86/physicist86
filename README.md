@@ -3,7 +3,6 @@
 
 ![](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif) 
 ![](https://github.com/physicist86/raw/blob/main/physics-knot-physics.gif)
-![](https://github.com/physicist86/raw/blob/main/p12.gif)
 
 <!---visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
@@ -14,6 +13,8 @@
 𝙼𝚢 𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜 𝚊𝚛𝚎 𝚒𝚗 𝚌𝚛𝚢𝚙𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢, 𝚍𝚊𝚝𝚊 𝚜𝚌𝚒𝚎𝚗𝚌𝚎, 𝚊𝚗𝚍 𝚒𝚗 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚒𝚖𝚋𝚎𝚍𝚍𝚎𝚍 𝚌𝚒𝚛𝚌𝚞𝚒𝚝𝚜.
 
 <!--[𝙰𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕𝚕𝚢, 𝙸 𝚖𝚊𝚔𝚎 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝚟𝚒𝚍𝚎𝚘𝚜](https://www.youtube.com/watch?v=M5tBvpnu4mM) -->
+
+![](https://github.com/physicist86/raw/blob/main/p12.gif)
 
 
 <table>
