@@ -1,5 +1,5 @@
 
-# 𝘼𝙝𝙤𝙮 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝘼𝙡𝙚𝙭! :shipit:
+# Let's make some efficient programs :shipit:
                                
 ![](https://raster.shields.io/badge/Follows-NEP29-brightgreen.png)
     
