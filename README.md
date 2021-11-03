@@ -4,7 +4,7 @@
 <!--- ![](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif) -->
 ![](https://github.com/physicist86/raw/blob/main/GIF-1.gif)
 
-Shown here is a visualization of star cluster formation in teh Arches cluster, id: potw1521a (aka the most dense region of space)
+Shown here is a visualization of star cluster formation in the Arches cluster, id: potw1521a (aka the most dense region of space)
 in python using matplotlib, I'll put my code up soon - polishing bells and whistles.
 <!-- ![](https://github.com/physicist86/raw/blob/main/p12.gif) -->
 <!-- ![](https://github.com/physicist86/raw/blob/main/physics-knot-physics.gif) -->
