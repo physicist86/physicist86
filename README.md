@@ -9,7 +9,7 @@
 
 <!---visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
-My languages are: C/C++, Python, Go, Javascript, and Swift. I'm learning TensorFlow by building projects on Google Colab. My interests are in mathematical cryptography and optimization. I am a huge data science nerd and I hope one day to land a career in data science/ analytics. 
+My languages are: C/C++, Python, Go, Javascript, and Swift but I'm, always learning and easily able to adapt. Code is logic anyways, the only thing different is syntax and type. I'm learning TensorFlow by building projects on Google Colab. My interests are in mathematical cryptography and optimization. I am a huge data science nerd and I hope one day to land a career in data science/ analytics. 
 
 My favorite python libraries are Matplotlib, SciKit, and turtle.py - i've drawn ![](amongUs)(https://replit.com/@physicist86/AmongUs)
 
