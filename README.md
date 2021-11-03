@@ -13,6 +13,8 @@ My languages are: C/C++, Python, Go, Javascript, and Swift. I'm learning TensorF
 
 My favorite python libraries are Matplotlib, SciKit, and turtle.py - i've drawn ![](amongUs)(https://replit.com/@physicist86/AmongUs)
 
+A great guide I've found on convolutional neural networks (CNN) is here: ![](https://ai.plainenglish.io/building-and-training-a-convolutional-neural-network-cnn-from-scratch-9a64bcc62c1)
+
 <!--[𝙰𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕𝚕𝚢, 𝙸 𝚖𝚊𝚔𝚎 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝚟𝚒𝚍𝚎𝚘𝚜](https://www.youtube.com/watch?v=M5tBvpnu4mM) -->
 
 <!--- ![](https://github.com/physicist86/raw/blob/main/p12.gif) -->
