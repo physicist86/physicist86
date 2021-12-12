@@ -1,6 +1,10 @@
 
 #| 𝙻𝚎𝚝'𝚜 𝚖𝚊𝚔𝚎 𝚜𝚘𝚖𝚎 𝚘𝚙𝚝𝚒𝚖𝚒𝚣𝚎𝚍 𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜 :shipit:
-
+  <h1 align="left">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey! Let's code!&left=true&size=15">
+    </a>
+  </h1>
 <!--- ![](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif) -->
 ![](https://github.com/physicist86/raw/blob/main/GIF-1.gif)
 
