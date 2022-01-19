@@ -1,6 +1,8 @@
 
-:shipit:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=Hey!+Welcome+to+my+github!)](https://git.io/typing-svg) :shipit:
+#:shipit:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=Hey!+Welcome+to+my+github!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=01100100+01100001+01110100+01100001+00100000+01101001)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=01110011+00100000+01101011+01101001+01101110+01100111)](https://git.io/typing-svg) 
 <!--- ![](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif) -->
 ![](https://github.com/physicist86/raw/blob/main/GIF-1.gif)
 
