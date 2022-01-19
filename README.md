@@ -1,6 +1,6 @@
 
 #| 𝙻𝚎𝚝'𝚜 𝚖𝚊𝚔𝚎 𝚜𝚘𝚖𝚎 𝚘𝚙𝚝𝚒𝚖𝚒𝚣𝚎𝚍 𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜 :shipit:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=Hey!+Let's+code!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=Hey! Welcome to my github! )](https://git.io/typing-svg)
 <!--- ![](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif) -->
 ![](https://github.com/physicist86/raw/blob/main/GIF-1.gif)
 
