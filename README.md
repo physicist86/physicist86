@@ -1,6 +1,4 @@
-
-:shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=Hey!+Let's+code!)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=Hey!+Let's+code!)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=01100100+01100001+01110100+01100001+00100000+01101001)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=01110011+00100000+01101011+01101001+01101110+01100111)](https://git.io/typing-svg) 
 <!--- ![](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif) -->
@@ -36,3 +34,9 @@ A great guide I've found on convolutional neural networks (CNN) is here: ![](A)(
 ![](https://camo.githubusercontent.com/4058e4719e56be216f2464f47def2f62540a0775acfde94a782f4e1aa9607db7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772532302d2532334646364630302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/c7b7cc7ee69f29e63d868190f2c26df123e4a5cdd2b87c7da409397bfd64020c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732532302d2532333135303435382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/98fb748d78c124f0aad277f2f162b0cb4fdb1c3b8f69293bb363ebf44ad557cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792532302d2532333031333234332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
+
+
+
+:shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit:
+:shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit:
+:shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit:
