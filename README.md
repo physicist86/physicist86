@@ -1,5 +1,5 @@
 
-:shipit: Welcome to the Github of an aspiring data scientist 
+:shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=Hey!+Let's+code!)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=01100100+01100001+01110100+01100001+00100000+01101001)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=01110011+00100000+01101011+01101001+01101110+01100111)](https://git.io/typing-svg) 
