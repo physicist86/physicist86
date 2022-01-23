@@ -1,4 +1,4 @@
-![](https://github.com/physicist86/raw/blob/main/oppa.gif)
+![](https://github.com/physicist86/raw/blob/main/Screen%20Shot%202022-01-23%20at%202.11.54%20AM.png)
 <table>
   <tr>
     <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛 #</td>
