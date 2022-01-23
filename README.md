@@ -38,6 +38,4 @@ A great guide I've found on convolutional neural networks (CNN) is here: ![](A)(
 
 
 
-:shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit:
-:shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit:
-:shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: 
+:shipit: :shipit: :shipit: :shipit: :shipit: :shipit: 
