@@ -11,6 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=01110011+00100000+01101011+01101001+01101110+01100111)](https://git.io/typing-svg) 
 <!--- ![](https://github.com/Alex1602e19/raw/blob/main/giphy%20(1).gif) -->
 ![](https://github.com/physicist86/raw/blob/main/GIF-1.gif)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/physicist86)
 
 Shown here is a visualization of star cluster formation in the Arches cluster, id: potw1521a (aka the most dense region of space)
 in python using matplotlib, I'll put my code up soon - polishing bells and whistles.
