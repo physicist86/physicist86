@@ -1,4 +1,10 @@
 ![](https://github.com/physicist86/raw/blob/main/deku.gif)
+<table>
+  <tr>
+    <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛 #</td>
+    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
+  </tr>
+</table>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=Hey!+Let's+code!)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=01100100+01100001+01110100+01100001+00100000+01101001)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=01110011+00100000+01101011+01101001+01101110+01100111)](https://git.io/typing-svg) 
@@ -22,13 +28,6 @@ A great guide I've found on convolutional neural networks (CNN) is here: ![](A)(
 
 <!--- ![](https://github.com/physicist86/raw/blob/main/p12.gif) -->
 
-
-<table>
-  <tr>
-    <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛 #</td>
-    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
-  </tr>
-</table>
 
 ![](https://raster.shields.io/badge/Follows-NEP29-brightgreen.png)
 ![](https://camo.githubusercontent.com/27250b9f428b32314f8610e1a996939cc116da5f8c4d8a2f8ed37104275085b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
