@@ -22,9 +22,9 @@ in python using matplotlib, I'll put my code up soon - polishing bells and whist
 
 My languages are: C/C++, Python, Go, Javascript, and Swift but I'm, always learning and easily able to adapt. Code is logic anyways, the only thing different is syntax and type. I'm learning TensorFlow by building projects on Google Colab. My interests are in mathematical cryptography and optimization. I am a huge data science nerd and I hope one day to land a career in data science/ analytics. 
 
-My favorite python libraries are Matplotlib, SciKit, and turtle.py - i've drawn ![](amongUs)(https://replit.com/@physicist86/AmongUs) as a way to get kids I tutor into computer science.
+<!---My favorite python libraries are Matplotlib, SciKit, and turtle.py - i've drawn ![](amongUs)(https://replit.com/@physicist86/AmongUs) as a way to get kids I tutor into computer science.
 
-A great guide I've found on convolutional neural networks (CNN) is here: ![](A)(https://ai.plainenglish.io/building-and-training-a-convolutional-neural-network-cnn-from-scratch-9a64bcc62c1)
+A great guide I've found on convolutional neural networks (CNN) is here: ![](A)(https://ai.plainenglish.io/building-and-training-a-convolutional-neural-network-cnn-from-scratch-9a64bcc62c1) --->
 
 <!--[𝙰𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕𝚕𝚢, 𝙸 𝚖𝚊𝚔𝚎 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝚟𝚒𝚍𝚎𝚘𝚜](https://www.youtube.com/watch?v=M5tBvpnu4mM) -->
 
