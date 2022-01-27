@@ -1,3 +1,6 @@
+<pre>
+$ neofetch
+
 ![](https://github.com/physicist86/raw/blob/main/Screen%20Shot%202022-01-27%20at%2010.42.50%20AM.png) 
 <table>
   <tr>
