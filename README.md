@@ -42,7 +42,7 @@ $ neofetch
                  `.     `.  ,
               .--'  .._,'"-' `.
              .    .'         `'
-             `.   / DATA.    ,'
+             `.   / DATA.    ,'  “Data is the new science. Big Data holds the answers.” – Pat Gelsinger
                `  '--.   ,-"'" 
                `'`   |  "
                    -. \  |
