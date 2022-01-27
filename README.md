@@ -1,13 +1,16 @@
 <pre>
 $ neofetch
+</pre>
 
 ![](https://github.com/physicist86/raw/blob/main/Screen%20Shot%202022-01-27%20at%2010.42.50%20AM.png) 
+
 <table>
   <tr>
     <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛 #</td>
     <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
   </tr>
 </table>
+
 
 <!---- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=Hey!+Let's+code!)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F75E&lines=01100100+01100001+01110100+01100001+00100000+01101001)](https://git.io/typing-svg) 
