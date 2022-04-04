@@ -2,15 +2,15 @@
 $ neofetch
 
                  ."-,.__'
-                 `.     `.  ,
+                 `.     `.  ,      PyTORCH
               .--'  .._,'"-' `.
              .    .'         `'
              `.   / DATA.    ,'  “Data is the new science. Big Data holds the answers.” – Pat Gelsinger
                `  '--.   ,-"'" 
                `'`   |  "
-                   -. \  |
+ TENSORFLOW        -. \  |
                     `--\.'      ___.
-                         \      ._, \.
+                         \      ._, \.          SciKit
                _.,        `.   <  <\ Welcome        .
              ,' '           `, `.   | \  to my     ( `
           ../, `.            `  |    .\`.   GitHub! \ \_
