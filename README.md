@@ -5,12 +5,12 @@ $ neofetch
                  `.     `.  ,      PyTORCH
               .--'  .._,'"-' `.
              .    .'         `'
-             `.   / DATA.    ,'  “Data is the new science. Big Data holds the answers.” – Pat Gelsinger
-               `  '--.   ,-"'" 
-               `'`   |  "
+             `.   / DATA.    ,'  “Never give up on what you really want to do. 
+               `  '--.   ,-"'"      The person with big dreams is more powerful than one with all the facts." 
+               `'`   |  "             - Albert Einstein
  TENSORFLOW        -. \  |
                     `--\.'      ___.
-                         \      ._, \.          SciKit
+                         \      ._, \.          SciKit Learn
                _.,        `.   <  <\ Welcome        .
              ,' '           `, `.   | \  to my     ( `
           ../, `.            `  |    .\`.   GitHub! \ \_
