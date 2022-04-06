@@ -73,7 +73,11 @@ A great guide I've found on convolutional neural networks (CNN) is here: ![](A)(
 
 <!--- ![](https://github.com/physicist86/raw/blob/main/p12.gif) -->
 
+<img align="right" alt="h4m5t's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=physicist86&show_icons=true">
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/physicist86)
+
+
 
 
 
