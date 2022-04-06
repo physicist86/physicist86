@@ -2,13 +2,13 @@
 $ neofetch
 
                  ."-,.__'
-                 `.     `.  ,      PyTORCH
+       ✶         `.     `.  ,      PyTORCH ✦
               .--'  .._,'"-' `.
              .    .'         `'
-             `.   / DATA.    ,'  “Never give up on what you really want to do. 
+             `.   /    ✶      ,'  “Never give up on what you really want to do. 
                `  '--.   ,-"'"      The person with big dreams is more powerful 
                `'`   |  "             than one with all the facts." - Albert Einstein
- TENSORFLOW        -. \  |
+ ✦TensorFlow       -. \  |
                     `--\.'      ___.
                          \      ._, \.          SciKit Learn
                _.,        `.   <  <\ Welcome        .
