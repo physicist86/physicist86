@@ -2,7 +2,7 @@
 $ neofetch
 
                  ."-,.__'
-       ✶         `.     `.  ,      PyTORCH ✦
+       ✶         `.     `.  ,      PyTORCH ✦                                               
               .--'  .._,'"-' `.
              .    .'         `'
              `.   /    ✶      ,'  “Never give up on what you really want to do. 
@@ -79,7 +79,31 @@ A great guide I've found on convolutional neural networks (CNN) is here: ![](A)(
 
 
 
+<pre>
+$ neofetch
 
+Let's play chess :)
+
+╔═╤═╤═╤═╤═╤═╤═╤═╗╮
+║♜│♞│♝│♛│♚│♝│♞│♜║8
+╟─┼─┼─┼─┼─┼─┼─┼─╢┊
+║♟│♟│♟│♟│♜│♟│♟│♟║7
+╟─┼─┼─┼─┼─┼─┼─┼─╢┊
+║ │░│ │░│ │░│ │░║6
+╟─┼─┼─┼─┼─┼─┼─┼─╢┊
+║░│ │░│ │░│ │░│ ║5
+╟─┼─┼─┼─┼─┼─┼─┼─╢┊
+║ │░│ │░│ │░│ │░║4
+╟─┼─┼─┼─┼─┼─┼─┼─╢┊
+║░│ │░│ │░│ │░│ ║3
+╟─┼─┼─┼─┼─┼─┼─┼─╢┊
+║♙│♙│♙│♙│♙│♙│♙│♙║2
+╟─┼─┼─┼─┼─┼─┼─┼─╢┊
+║♖│♘│♗│♕│♔│♗│♘│♖║1
+╚═╧═╧═╧═╧═╧═╧═╧═╝┊
+╰a┈b┈c┈d┈e┈f┈g┈h┈╯
+ 
+</pre>
 
 
 <!-- ![](https://raster.shields.io/badge/Follows-NEP29-brightgreen.png)
