@@ -46,7 +46,15 @@ Y88b.    Y88..88P Y88b 888 Y8b.           Y88b.    888  888 888  888       888 d
  "Y8888P  "Y88P"   "Y88888  "Y8888         "Y8888P "Y888888 888  888       88888P"   "Y8888        888  888  888 "Y888888  "Y88888 888  "Y8888P 
                                                                                                                                888              
                                                                                                                           Y8b d88P              
-                                                                                                                           "Y88P"               
+                                                                                                                           "Y88P"      
+                                                                                                                           
+                                                                                                                                      _                       _                        o     
+ __  __  __)) __   __  ___  _ _    ))  __   _  _  ___  ___  _  __ 
+((_ ((_)((_( (('  ((_ ((_( ((\(   ((_)(('  ((`1( ((_( ((_( (( ((_ 
+                                                        _))          
+                                                        
+- Here we believe that code has the power to change people's lives and grant opportunities.
+
 </pre>
 
 
